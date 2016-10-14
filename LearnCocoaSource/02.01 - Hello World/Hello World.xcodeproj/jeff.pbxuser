@@ -1,0 +1,201 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	1F455E630F62DA8C009644BB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F455E600F62DA6D009644BB /* hello world.icns */;
+	};
+	1F455E660F62DA8C009644BB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1F455E600F62DA6D009644BB /* hello world.icns */;
+	};
+	1F455E670F62DA8C009644BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	1F455E6A0F62F678009644BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	1F455E6C0F62F678009644BB /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/jeff/Desktop/Hello World/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1F4BD0590F6DEA4D00F5E2D4 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/jeff/Desktop/Apress Cocoa Book/Source Code/02 - Hello World/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1F9E44020F61CD1F00EF11A9 /* Hello World */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Hello World";
+		sourceDirectories = (
+		);
+	};
+	1F9E440E0F61CD3E00EF11A9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	1F9E440F0F61CD3E00EF11A9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1FF1FD0D0F63964D002C89E0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIconFile,
+		);
+		name = "/Users/jeff/Desktop/Hello World/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 1F9E44020F61CD1F00EF11A9 /* Hello World */;
+		activeTarget = 8D1107260486CEB800E47090 /* Hello World */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Hello World */,
+		);
+		codeSenseManager = 1F9E440F0F61CD3E00EF11A9 /* Code sense */;
+		executables = (
+			1F9E44020F61CD1F00EF11A9 /* Hello World */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					456,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					568,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 258850500;
+			PBXWorkspaceStateSaveDate = 258850500;
+		};
+		perUserProjectItems = {
+			1F455E630F62DA8C009644BB /* PBXBookmark */ = 1F455E630F62DA8C009644BB /* PBXBookmark */;
+			1F455E660F62DA8C009644BB /* PBXBookmark */ = 1F455E660F62DA8C009644BB /* PBXBookmark */;
+			1F455E670F62DA8C009644BB /* PBXTextBookmark */ = 1F455E670F62DA8C009644BB /* PBXTextBookmark */;
+			1F455E6A0F62F678009644BB /* PBXTextBookmark */ = 1F455E6A0F62F678009644BB /* PBXTextBookmark */;
+			1F455E6C0F62F678009644BB /* PlistBookmark */ = 1F455E6C0F62F678009644BB /* PlistBookmark */;
+			1F4BD0590F6DEA4D00F5E2D4 /* PlistBookmark */ = 1F4BD0590F6DEA4D00F5E2D4 /* PlistBookmark */;
+			1FF1FD0D0F63964D002C89E0 /* PlistBookmark */ = 1FF1FD0D0F63964D002C89E0 /* PlistBookmark */;
+		};
+		sourceControlManager = 1F9E440E0F61CD3E00EF11A9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Hello World */ = {
+		activeExec = 0;
+		executables = (
+			1F9E44020F61CD1F00EF11A9 /* Hello World */,
+		);
+	};
+}

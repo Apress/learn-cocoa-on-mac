@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	231A524011309BF100D09181 /* VillainTracker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = VillainTracker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	231A524A11309C1500D09181 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	231A524B11309C1500D09181 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	256AC3D80F4B6AC300CF3369 /* VillainTrackerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{696, 17}";
+			sepNavVisRange = "{0, 1337}";
+			sepNavWindowFrame = "{{15, 51}, {1055, 822}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* VillainTrackerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 2730}}";
+			sepNavSelRange = "{5077, 33}";
+			sepNavVisRange = "{4045, 2209}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* VillainTracker_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 159}";
+			sepNavWindowFrame = "{{15, 51}, {1055, 822}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 231A524011309BF100D09181 /* VillainTracker */;
+		activeTarget = 8D1107260486CEB800E47090 /* VillainTracker */;
+		codeSenseManager = 231A524B11309C1500D09181 /* Code sense */;
+		executables = (
+			231A524011309BF100D09181 /* VillainTracker */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 288398384;
+			PBXWorkspaceStateSaveDate = 288398384;
+		};
+		sourceControlManager = 231A524A11309C1500D09181 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* VillainTracker */ = {
+		activeExec = 0;
+		executables = (
+			231A524011309BF100D09181 /* VillainTracker */,
+		);
+	};
+}

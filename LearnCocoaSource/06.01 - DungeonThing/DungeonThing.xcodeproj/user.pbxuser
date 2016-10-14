@@ -1,0 +1,119 @@
+// !$*UTF8*$!
+{
+	23C2C3DA0FFAD289004BB9AE /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {955, 2262}}";
+			sepNavSelRange = "{3380, 41}";
+			sepNavVisRange = "{3347, 1604}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CEA8B82B100671550059109F /* DungeonThing */;
+		activeTarget = 8D1107260486CEB800E47090 /* DungeonThing */;
+		codeSenseManager = CEA8B83D100671570059109F /* Code sense */;
+		executables = (
+			CEA8B82B100671550059109F /* DungeonThing */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					777,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 269446113;
+			PBXWorkspaceStateSaveDate = 269446113;
+		};
+		perUserProjectItems = {
+			CE846570100F6BE600B60045 /* PBXTextBookmark */ = CE846570100F6BE600B60045 /* PBXTextBookmark */;
+			CEA8B84010067BF20059109F /* PBXTextBookmark */ = CEA8B84010067BF20059109F /* PBXTextBookmark */;
+		};
+		sourceControlManager = CEA8B83C100671570059109F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* DungeonThing */ = {
+		activeExec = 0;
+		executables = (
+			CEA8B82B100671550059109F /* DungeonThing */,
+		);
+	};
+	CE846570100F6BE600B60045 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23C2C3DA0FFAD289004BB9AE /* AppController.m */;
+		name = "AppController.m: 80";
+		rLen = 41;
+		rLoc = 3380;
+		rType = 0;
+		vrLen = 1604;
+		vrLoc = 3347;
+	};
+	CEA8B82B100671550059109F /* DungeonThing */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DungeonThing;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	CEA8B83C100671570059109F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CEA8B83D100671570059109F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CEA8B84010067BF20059109F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23C2C3DA0FFAD289004BB9AE /* AppController.m */;
+		name = "AppController.m: 80";
+		rLen = 41;
+		rLoc = 3380;
+		rType = 0;
+		vrLen = 1608;
+		vrLoc = 3358;
+	};
+}

@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	236C086F10B813090000E5AA /* SlowWorker_AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 331}";
+		};
+	};
+	236C087010B813090000E5AA /* SlowWorker_AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 819}}";
+			sepNavSelRange = "{1634, 127}";
+			sepNavVisRange = "{219, 1568}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CEA2FA0C10DC5609007A2B32 /* SlowWorker */;
+		activeSDKPreference = macosx10.6;
+		activeTarget = 8D1107260486CEB800E47090 /* SlowWorker */;
+		codeSenseManager = CEA2FA2110DC561B007A2B32 /* Code sense */;
+		executables = (
+			CEA2FA0C10DC5609007A2B32 /* SlowWorker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					606,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 282875401;
+			PBXWorkspaceStateSaveDate = 282875401;
+		};
+		perUserProjectItems = {
+			CEA2FA1810DC561B007A2B32 /* PBXTextBookmark */ = CEA2FA1810DC561B007A2B32 /* PBXTextBookmark */;
+			CEA2FA5710DC5A27007A2B32 /* PBXTextBookmark */ = CEA2FA5710DC5A27007A2B32 /* PBXTextBookmark */;
+			CEA2FA5910DC5A27007A2B32 /* PBXTextBookmark */ = CEA2FA5910DC5A27007A2B32 /* PBXTextBookmark */;
+			CEA2FA6110DC616E007A2B32 /* PBXTextBookmark */ = CEA2FA6110DC616E007A2B32 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CEA2FA2010DC561B007A2B32 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SlowWorker */ = {
+		activeExec = 0;
+		executables = (
+			CEA2FA0C10DC5609007A2B32 /* SlowWorker */,
+		);
+	};
+	CEA2FA0C10DC5609007A2B32 /* SlowWorker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SlowWorker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CEA2FA1810DC561B007A2B32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 236C086F10B813090000E5AA /* SlowWorker_AppDelegate.h */;
+		name = "SlowWorker_AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 0;
+	};
+	CEA2FA2010DC561B007A2B32 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CEA2FA2110DC561B007A2B32 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CEA2FA5710DC5A27007A2B32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CEA2FA5810DC5A27007A2B32 /* NSDate.h */;
+		name = "NSDate.h: 23";
+		rLen = 63;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 0;
+	};
+	CEA2FA5810DC5A27007A2B32 /* NSDate.h */ = {
+		isa = PBXFileReference;
+		name = NSDate.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSDate.h;
+		sourceTree = "<absolute>";
+	};
+	CEA2FA5910DC5A27007A2B32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 236C087010B813090000E5AA /* SlowWorker_AppDelegate.m */;
+		name = "SlowWorker_AppDelegate.m: 55";
+		rLen = 0;
+		rLoc = 1717;
+		rType = 0;
+		vrLen = 1613;
+		vrLoc = 81;
+	};
+	CEA2FA6110DC616E007A2B32 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 236C087010B813090000E5AA /* SlowWorker_AppDelegate.m */;
+		name = "SlowWorker_AppDelegate.m: 54";
+		rLen = 127;
+		rLoc = 1634;
+		rType = 0;
+		vrLen = 1568;
+		vrLoc = 219;
+	};
+}

@@ -1,0 +1,215 @@
+// !$*UTF8*$!
+{
+	23045C37104E72D900D0E50E /* MenuLabAppDelegate.m:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 23DB00D7103E0140006A1124 /* MenuLabAppDelegate.m */;
+		functionName = "-toggleTurbo:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		location = MenuLab;
+		modificationTime = 273585022.730221;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	23045C49104E937300D0E50E /* ListWindowDelegate.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 23DB00E9103E07C4006A1124 /* ListWindowDelegate.m */;
+		functionName = "-validateUserInterfaceItem:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = MenuLab;
+		modificationTime = 273585072.5015451;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	231A53531130A84D00D09181 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DB00D6103E0140006A1124 /* MenuLabAppDelegate.h */;
+		name = "MenuLabAppDelegate.h: 2";
+		rLen = 0;
+		rLoc = 14;
+		rType = 0;
+		vrLen = 291;
+		vrLoc = 0;
+	};
+	231A53541130A84D00D09181 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DB00D7103E0140006A1124 /* MenuLabAppDelegate.m */;
+		name = "MenuLab_AppDelegate.m: 17";
+		rLen = 0;
+		rLoc = 256;
+		rType = 0;
+		vrLen = 301;
+		vrLoc = 0;
+	};
+	231A53631130A9C900D09181 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 23DB00D7103E0140006A1124 /* MenuLabAppDelegate.m */;
+		name = "MenuLabAppDelegate.m: 2";
+		rLen = 0;
+		rLoc = 14;
+		rType = 0;
+		vrLen = 293;
+		vrLoc = 0;
+	};
+	23DB00D6103E0140006A1124 /* MenuLabAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{14, 0}";
+			sepNavVisRange = "{0, 291}";
+			sepNavWindowFrame = "{{38, 93}, {963, 759}}";
+		};
+	};
+	23DB00D7103E0140006A1124 /* MenuLabAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{14, 0}";
+			sepNavVisRange = "{0, 293}";
+			sepNavWindowFrame = "{{38, 93}, {963, 759}}";
+		};
+	};
+	23DB00E8103E07C4006A1124 /* ListWindowDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 559}}";
+			sepNavSelRange = "{136, 145}";
+			sepNavVisRange = "{0, 281}";
+		};
+	};
+	23DB00E9103E07C4006A1124 /* ListWindowDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {659, 560}}";
+			sepNavSelRange = "{231, 76}";
+			sepNavVisRange = "{0, 565}";
+		};
+	};
+	23FCC195103CAE42004A7809 /* MenuLab */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MenuLab;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	23FCC19F103CAE4A004A7809 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23FCC1A0103CAE4A004A7809 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23FCC195103CAE42004A7809 /* MenuLab */;
+		activeTarget = 8D1107260486CEB800E47090 /* MenuLab */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MenuLab */,
+		);
+		breakpoints = (
+			23045C37104E72D900D0E50E /* MenuLabAppDelegate.m:18 */,
+			23045C49104E937300D0E50E /* ListWindowDelegate.m:20 */,
+		);
+		codeSenseManager = 23FCC1A0103CAE4A004A7809 /* Code sense */;
+		executables = (
+			23FCC195103CAE42004A7809 /* MenuLab */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					884,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					994,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288401401;
+			PBXWorkspaceStateSaveDate = 288401401;
+		};
+		perUserProjectItems = {
+			231A53531130A84D00D09181 /* PBXTextBookmark */ = 231A53531130A84D00D09181 /* PBXTextBookmark */;
+			231A53541130A84D00D09181 /* PBXTextBookmark */ = 231A53541130A84D00D09181 /* PBXTextBookmark */;
+			231A53631130A9C900D09181 /* PBXTextBookmark */ = 231A53631130A9C900D09181 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23FCC19F103CAE4A004A7809 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* MenuLab */ = {
+		activeExec = 0;
+		executables = (
+			23FCC195103CAE42004A7809 /* MenuLab */,
+		);
+	};
+}

@@ -1,0 +1,162 @@
+// !$*UTF8*$!
+{
+	2300C9801082553E003AB432 /* CurveView.m:31 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 23C5B4C11076CAE600DC5911 /* CurveView.m */;
+		functionName = "-setCp1X:";
+		hitCount = 7;
+		ignoreCount = 0;
+		lineNumber = 31;
+		location = CurveEdit;
+		modificationTime = 276977046.923266;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	23C5B49F1076CA7C00DC5911 /* CurveEdit */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CurveEdit;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	23C5B4AC1076CA9200DC5911 /* CurveEditAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{16, 0}";
+			sepNavVisRange = "{0, 444}";
+			sepNavWindowFrame = "{{15, 114}, {963, 759}}";
+		};
+	};
+	23C5B4AD1076CA9200DC5911 /* CurveEditAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{16, 0}";
+			sepNavVisRange = "{0, 1022}";
+			sepNavWindowFrame = "{{15, 114}, {963, 759}}";
+		};
+	};
+	23C5B4AF1076CA9200DC5911 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23C5B4B01076CA9200DC5911 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23C5B4C01076CAE600DC5911 /* CurveView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1045, 529}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	23C5B4C11076CAE600DC5911 /* CurveView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1045, 2590}}";
+			sepNavSelRange = "{4775, 0}";
+			sepNavVisRange = "{4673, 1140}";
+			sepNavWindowFrame = "{{107, 203}, {1104, 586}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23C5B49F1076CA7C00DC5911 /* CurveEdit */;
+		activeTarget = 8D1107260486CEB800E47090 /* CurveEdit */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* CurveEdit */,
+		);
+		breakpoints = (
+			2300C9801082553E003AB432 /* CurveView.m:31 */,
+		);
+		codeSenseManager = 23C5B4B01076CA9200DC5911 /* Code sense */;
+		executables = (
+			23C5B49F1076CA7C00DC5911 /* CurveEdit */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					697,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					807,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288406916;
+			PBXWorkspaceStateSaveDate = 288406916;
+		};
+		sourceControlManager = 23C5B4AF1076CA9200DC5911 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* CurveEdit */ = {
+		activeExec = 0;
+		executables = (
+			23C5B49F1076CA7C00DC5911 /* CurveEdit */,
+		);
+	};
+}

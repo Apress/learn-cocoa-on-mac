@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	23DB004D103DEC3C006A1124 /* WindowLabAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{16, 0}";
+			sepNavVisRange = "{0, 575}";
+			sepNavWindowFrame = "{{15, 114}, {963, 759}}";
+		};
+	};
+	23DB004E103DEC3C006A1124 /* WindowLabAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 1932}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 1265}";
+			sepNavWindowFrame = "{{15, 114}, {963, 759}}";
+		};
+	};
+	23DB007E103DF1E0006A1124 /* MyWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{94, 12}";
+			sepNavVisRange = "{0, 277}";
+		};
+	};
+	23DB007F103DF1E0006A1124 /* MyWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{106, 0}";
+			sepNavVisRange = "{0, 341}";
+			sepNavWindowFrame = "{{15, 51}, {1055, 822}}";
+		};
+	};
+	23DC4A39104BF6A9006AB98A /* NotSoEasyWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{103, 0}";
+			sepNavVisRange = "{0, 255}";
+		};
+	};
+	23DC4A3A104BF6A9006AB98A /* NotSoEasyWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{103, 0}";
+			sepNavVisRange = "{0, 380}";
+			sepNavWindowFrame = "{{15, 51}, {1055, 822}}";
+		};
+	};
+	23F847A0104B3B0800133FA6 /* WindowLabAppDelegate.m:119 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 23DB004E103DEC3C006A1124 /* WindowLabAppDelegate.m */;
+		functionName = "-loadEasyWindow:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 119;
+		location = WindowLab;
+		modificationTime = 273365825.644857;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	23FCC1A4103CAE54004A7809 /* WindowLab */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = WindowLab;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	23FCC1A8103CAE73004A7809 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23FCC1A9103CAE73004A7809 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23FCC1A4103CAE54004A7809 /* WindowLab */;
+		activeTarget = 8D1107260486CEB800E47090 /* WindowLab */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* WindowLab */,
+		);
+		breakpoints = (
+			23F847A0104B3B0800133FA6 /* WindowLabAppDelegate.m:119 */,
+		);
+		codeSenseManager = 23FCC1A9103CAE73004A7809 /* Code sense */;
+		executables = (
+			23FCC1A4103CAE54004A7809 /* WindowLab */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					884,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					994,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288401086;
+			PBXWorkspaceStateSaveDate = 288401086;
+		};
+		sourceControlManager = 23FCC1A8103CAE73004A7809 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* WindowLab */ = {
+		activeExec = 0;
+		executables = (
+			23FCC1A4103CAE54004A7809 /* WindowLab */,
+		);
+	};
+}

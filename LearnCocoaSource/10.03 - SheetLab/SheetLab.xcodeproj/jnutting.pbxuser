@@ -1,0 +1,166 @@
+// !$*UTF8*$!
+{
+	23DB0111103E0B42006A1124 /* SheetLab */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SheetLab;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	23DB0115103E0B61006A1124 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23DB0116103E0B61006A1124 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23DB0119103E0BB8006A1124 /* SheetLabAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{15, 0}";
+			sepNavVisRange = "{0, 438}";
+			sepNavWindowFrame = "{{61, 72}, {963, 759}}";
+		};
+	};
+	23DB011A103E0BB8006A1124 /* SheetLabAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{15, 0}";
+			sepNavVisRange = "{0, 1455}";
+			sepNavWindowFrame = "{{61, 72}, {963, 759}}";
+		};
+	};
+	23DB0146103E163A006A1124 /* SheetLabAppDelegate.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 23DB011A103E0BB8006A1124 /* SheetLabAppDelegate.m */;
+		functionName = "-customSheetOk:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = SheetLab;
+		modificationTime = 272504816.739762;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	23DB0148103E163B006A1124 /* SheetLabAppDelegate.m:41 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 23DB011A103E0BB8006A1124 /* SheetLabAppDelegate.m */;
+		functionName = "-customSheetCancel:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 41;
+		location = SheetLab;
+		modificationTime = 272504817.588503;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23DB0111103E0B42006A1124 /* SheetLab */;
+		activeTarget = 8D1107260486CEB800E47090 /* SheetLab */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SheetLab */,
+		);
+		breakpoints = (
+			23DB0146103E163A006A1124 /* SheetLabAppDelegate.m:37 */,
+			23DB0148103E163B006A1124 /* SheetLabAppDelegate.m:41 */,
+		);
+		codeSenseManager = 23DB0116103E0B61006A1124 /* Code sense */;
+		executables = (
+			23DB0111103E0B42006A1124 /* SheetLab */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					884,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					994,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288403248;
+			PBXWorkspaceStateSaveDate = 288403248;
+		};
+		sourceControlManager = 23DB0115103E0B61006A1124 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SheetLab */ = {
+		activeExec = 0;
+		executables = (
+			23DB0111103E0B42006A1124 /* SheetLab */,
+		);
+	};
+}

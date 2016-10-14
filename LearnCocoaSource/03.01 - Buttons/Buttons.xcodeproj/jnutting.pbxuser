@@ -1,0 +1,84 @@
+// !$*UTF8*$!
+{
+	1FC29A3A0F6D471400AAD910 /* ButtonsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{25, 0}";
+			sepNavVisRange = "{0, 329}";
+			sepNavWindowFrame = "{{15, 51}, {1055, 822}}";
+		};
+	};
+	1FC29A3B0F6D471400AAD910 /* ButtonsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {996, 765}}";
+			sepNavSelRange = "{25, 0}";
+			sepNavVisRange = "{0, 547}";
+		};
+	};
+	231A51DE1130975400D09181 /* Buttons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Buttons;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	231A51E51130977200D09181 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	231A51E61130977200D09181 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 231A51DE1130975400D09181 /* Buttons */;
+		activeTarget = 8D1107260486CEB800E47090 /* Buttons */;
+		codeSenseManager = 231A51E61130977200D09181 /* Code sense */;
+		executables = (
+			231A51DE1130975400D09181 /* Buttons */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 288397140;
+			PBXWorkspaceStateSaveDate = 288397140;
+		};
+		sourceControlManager = 231A51E51130977200D09181 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* Buttons */ = {
+		activeExec = 0;
+		executables = (
+			231A51DE1130975400D09181 /* Buttons */,
+		);
+	};
+}

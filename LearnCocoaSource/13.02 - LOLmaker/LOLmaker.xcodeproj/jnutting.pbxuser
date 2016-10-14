@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	23C39E9A107407D100DF5F0D /* LOLmaker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LOLmaker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	23C39EA7107407F000DF5F0D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23C39EA8107407F000DF5F0D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23C39EA9107407F000DF5F0D /* LOLmakerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 702}}";
+			sepNavSelRange = "{15, 0}";
+			sepNavVisRange = "{0, 360}";
+			sepNavWindowFrame = "{{15, 114}, {963, 759}}";
+		};
+	};
+	23C39EAA107407F000DF5F0D /* LOLmakerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {457, 621}}";
+			sepNavSelRange = "{487, 0}";
+			sepNavVisRange = "{0, 487}";
+			sepNavWindowFrame = "{{15, 195}, {516, 678}}";
+		};
+	};
+	23C5B22B10755B3600DC5911 /* LOLView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {457, 621}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 290}";
+		};
+	};
+	23C5B22C10755B3600DC5911 /* LOLView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {457, 1246}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 782}";
+			sepNavWindowFrame = "{{123, 181}, {516, 678}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23C39E9A107407D100DF5F0D /* LOLmaker */;
+		activeTarget = 8D1107260486CEB800E47090 /* LOLmaker */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* LOLmaker */,
+		);
+		codeSenseManager = 23C39EA8107407F000DF5F0D /* Code sense */;
+		executables = (
+			23C39E9A107407D100DF5F0D /* LOLmaker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					401,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					511,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 288406530;
+			PBXWorkspaceStateSaveDate = 288406530;
+		};
+		sourceControlManager = 23C39EA7107407F000DF5F0D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* LOLmaker */ = {
+		activeExec = 0;
+		executables = (
+			23C39E9A107407D100DF5F0D /* LOLmaker */,
+		);
+	};
+}
